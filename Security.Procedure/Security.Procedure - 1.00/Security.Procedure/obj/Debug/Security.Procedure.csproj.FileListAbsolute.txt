@@ -1,0 +1,12 @@
+E:\Proyectos\VS2019C\Biblioteca de Clases\Security.Procedure\Security.Procedure\bin\Debug\Security.Procedure.dll
+E:\Proyectos\VS2019C\Biblioteca de Clases\Security.Procedure\Security.Procedure\bin\Debug\Security.Procedure.pdb
+E:\Proyectos\VS2019C\Biblioteca de Clases\Security.Procedure\Security.Procedure\obj\Debug\Security.Procedure.csproj.AssemblyReference.cache
+E:\Proyectos\VS2019C\Biblioteca de Clases\Security.Procedure\Security.Procedure\obj\Debug\Security.Procedure.csproj.CoreCompileInputs.cache
+E:\Proyectos\VS2019C\Biblioteca de Clases\Security.Procedure\Security.Procedure\obj\Debug\Security.Procedure.dll
+E:\Proyectos\VS2019C\Biblioteca de Clases\Security.Procedure\Security.Procedure\obj\Debug\Security.Procedure.pdb
+D:\Proyectos\VS2019C\Security.Procedure\Security.Procedure\bin\Debug\Security.Procedure.dll
+D:\Proyectos\VS2019C\Security.Procedure\Security.Procedure\bin\Debug\Security.Procedure.pdb
+D:\Proyectos\VS2019C\Security.Procedure\Security.Procedure\obj\Debug\Security.Procedure.csproj.AssemblyReference.cache
+D:\Proyectos\VS2019C\Security.Procedure\Security.Procedure\obj\Debug\Security.Procedure.csproj.CoreCompileInputs.cache
+D:\Proyectos\VS2019C\Security.Procedure\Security.Procedure\obj\Debug\Security.Procedure.dll
+D:\Proyectos\VS2019C\Security.Procedure\Security.Procedure\obj\Debug\Security.Procedure.pdb

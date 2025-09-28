@@ -1,0 +1,10 @@
+E:\Proyectos\VS2019C\Biblioteca de Clases\Security.Procedure\Security.Procedure\bin\Release\Security.Procedure.dll
+E:\Proyectos\VS2019C\Biblioteca de Clases\Security.Procedure\Security.Procedure\bin\Release\Security.Procedure.pdb
+E:\Proyectos\VS2019C\Biblioteca de Clases\Security.Procedure\Security.Procedure\obj\Release\Security.Procedure.csproj.CoreCompileInputs.cache
+E:\Proyectos\VS2019C\Biblioteca de Clases\Security.Procedure\Security.Procedure\obj\Release\Security.Procedure.dll
+E:\Proyectos\VS2019C\Biblioteca de Clases\Security.Procedure\Security.Procedure\obj\Release\Security.Procedure.pdb
+D:\Proyectos\VS2019C\Security.Procedure\Security.Procedure\bin\Release\Security.Procedure.dll
+D:\Proyectos\VS2019C\Security.Procedure\Security.Procedure\bin\Release\Security.Procedure.pdb
+D:\Proyectos\VS2019C\Security.Procedure\Security.Procedure\obj\Release\Security.Procedure.csproj.CoreCompileInputs.cache
+D:\Proyectos\VS2019C\Security.Procedure\Security.Procedure\obj\Release\Security.Procedure.dll
+D:\Proyectos\VS2019C\Security.Procedure\Security.Procedure\obj\Release\Security.Procedure.pdb
